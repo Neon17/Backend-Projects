@@ -1,0 +1,22 @@
+nav .navbar-brand {
+    font-size: 3rem;
+}
+nav .navbar-brand:hover {
+    font-weight: 550;
+}
+nav .active {
+    background-color: yellow !important;
+}
+nav ul li:hover .nav-link{
+    background-color: yellowgreen;
+}
+nav .navbar-collapse {
+    font-size: 1.4rem;
+}
+.card {
+    opacity: 0.7;
+}
+.card:hover {
+    cursor: pointer;
+    opacity: 1;
+}

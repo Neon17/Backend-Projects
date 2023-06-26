@@ -4,7 +4,7 @@
 
     }
     else {
-        header("Refresh: 0; url=../process/login.php");
+        header("Refresh: 0,url=../process/login.php");
     }
 ?>
 
